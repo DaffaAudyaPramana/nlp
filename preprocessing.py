@@ -128,7 +128,7 @@ print('Membuat kamus kosong untuk menghitung panjang pertanyaan dan jawaban.')
 # Menentukan nama file untuk menyimpan data yang telah diproses.
 #filename = open('./dataset/clean_qa.txt', 'a+')
 print("Menentukan nama file untuk menyimpan data yang telah diproses.")
-filename= './dataset/clean_dataset4.txt'
+filename= './dataset/clean_dataset_debugging_flutter.txt'
 
 # Membuka file untuk menulis data.
 print("Membuka file untuk menulis data.")
